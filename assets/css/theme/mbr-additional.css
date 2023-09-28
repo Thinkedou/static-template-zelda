@@ -1088,8 +1088,10 @@ a {
     padding: 20px 30px;
   }
 }
+
 .cid-sRQbBIAVHg .title-section {
-  margin-bottom: 50px;
+
+  margin-bottom: 20px;
 }
 .cid-sRQbBIAVHg .card-1 {
   background-color: #ffa4a7;
@@ -1113,6 +1115,7 @@ a {
   background-color: #0e47a1;
 }
 .cid-sRQcud4Jjb .title-section {
+  margin-top:30px;
   margin-bottom: 4.5rem;
   padding: 0 90px;
 }
@@ -1237,9 +1240,9 @@ a {
   text-align: center;
 }
 .cid-sRQoPK3EDs {
-  padding-top: 5rem;
+  padding-top: 10rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/mountain-fv.jpg");
+  background-image: url("../../../assets/img/mountain-fv.jpg");
 }
 .cid-sRQoPK3EDs .wrapper {
   background-color: #ffffff;
