@@ -69,7 +69,7 @@ limit=40
 
 L'adresse du repo sous cette forme **nom-prenom-vue3**.git
 
-Sinon un zip (sans node_modules)
+Sinon un zip (*sans node_modules*)
 
 Durée : **3h**
 
