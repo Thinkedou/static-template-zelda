@@ -17,7 +17,7 @@ Découpez ensuite votre projet en composants
 
     
 
-> Sur l'index vous pouvez par exemple choisir d'afficher 3 montres au
+> Sur l'index vous pouvez par exemple choisir d'afficher 3 monstres au
 > hasard ou vos 3 monstres préférés
  
 
@@ -71,7 +71,7 @@ L'adresse du repo sous cette forme **nom-prenom-vue3**.git
 
 Sinon un zip (**sans node_modules**)
 
-Durée : **3h**
+Durée : **1.5h**
 
 
 > **Warning**
